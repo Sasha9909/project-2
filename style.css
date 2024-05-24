@@ -2,11 +2,11 @@ header,footer {
     width: 100%;
     height: 60px;
     background-color: chocolate;
-     text-align: left;
+    text-align: center;
 }
 header nav {
    padding-top:12px;
-
+    margin: auto;   
 }
 main {
     width: 100%;
